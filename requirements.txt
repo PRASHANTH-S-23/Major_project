@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+keras
+numpy
+h5py
+pillow
+opencv-python
+matplotlib
+seaborn
+
